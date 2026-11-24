@@ -1,0 +1,53 @@
+div#container{background-color: #BFB9AE; 
+    width: 1440px; 
+    margin: 0 auto;}
+header{background-color: #1D4B73; 
+            padding:100px 0px 0px 0px;
+            text-align:center;
+            color:#BFB9AE;}
+header h1{font-family: 'impact'; 
+    font-size: 8rem;}
+header a{font-family: 'arial', sans-serif; 
+    font-size: 1.8rem; 
+    font-weight: 100;
+    color:#BFB9AE;
+    text-decoration:none;}
+article.musico{background-color: #D9A491; 
+    padding: 100px 0px 100px 100px;
+    height: 386px;
+    margin-bottom: 100px;
+    text-align: center;}
+article.musico img{float:left; margin-right: 20px;}
+article#infoDelMusico{background-color: #D9A491; 
+    padding: 100px 0px 100px 100px;
+    height: 386px;}
+article#infoDelMusico img{float:left; margin-right: 300px;}
+div#video{clear: both;}
+
+/*------ esto es el estilo de footer para todas la páginas -------*/
+
+footer{background-color: #1D4B73; 
+        padding:150px 100px 100px 100px;
+        clear:both;}
+footer p{color:#BFB9AE; 
+        font-family: 'arial', sans-serif;
+        font-size: 1.8rem;
+        font-weight: 200;
+        float:left;
+        margin-right: 450px;}
+footer a{margin-right: 50px;}
+
+
+/*------ esto es el estilo del nav de redes de los jugadores -------*/
+
+nav#redes {padding:50px 0px 300px 0px; 
+            text-align: center;
+            background-color: #5F5F5F;}
+nav#redes p{
+    color:#BFB9AE; 
+        font-family: 'arial', sans-serif;
+        font-size: 1.8rem;
+        font-weight: 200;
+        float:left;
+        margin-left: 250px}
+nav#redes a{margin-right: 50px;}
